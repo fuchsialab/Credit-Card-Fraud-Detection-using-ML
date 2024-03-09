@@ -1,3 +1,5 @@
+This project is made by Group 2 (Juyel Majumder, Akash Saha, Pratyay Mishra, Bithika Kolay & Soubhadra Mondal).
+
 Took data set from -> https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 This dataset is bigger in size that's why unable to upload it in github.
 
